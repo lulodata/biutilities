@@ -1,2 +1,1 @@
-# biutilities
-biutilities
+Utilities for general BI.
